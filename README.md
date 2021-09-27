@@ -108,10 +108,10 @@ You can click the column headers to sort.
 | Luke Howarth | LNP | QLD | Reps | ? | 2021-03-17 |  | 
 | Hollie Hughes | Liberal | NSW | Senate | ? | 2021-07-15 |  | 
 | Jane Hume | Liberal | VIC | Senate | ? | 2020-02-26 |  | 
-| Greg Hunt | Liberal | VIC | Reps | ? | 2021-07-06 |  | 
-| Ed Husic | Labor | NSW | Reps | ? | 2020-04-01 |  | 
-| Steve Irons | Liberal | WA | Reps | ? | 2020-10-28 |  | 
-| Stephen Jones | Labor | NSW | Reps | ? | 2021-06-29 |  | 
+| Greg Hunt | Liberal | VIC | Reps | NO | [2021-07-06](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Hunt_46P.pdf?la=en&hash=57AB85AF5627AAE1F847D56F8749CB774B47F1BC) |  | 
+| Ed Husic | Labor | NSW | Reps | NO | [2020-04-01](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Husic_46P.pdf?la=en&hash=EAAA373458E50875E4CED889F15CA3F17D5E774D) |  | 
+| Steve Irons | Liberal | WA | Reps | NO | [2020-10-28](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Irons_46P.pdf?la=en&hash=3EFE00F1593FD1C25670B7F4E7B1F4B9B9CA40BC) | Burey Gold | 
+| Stephen Jones | Labor | NSW | Reps | NO | [2021-06-29](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Jones_46P.pdf?la=en&hash=1D484DC4E3BAC1AF8F1AEC3BEA3BDAFF3761F183) |  | 
 | Barnaby Joyce | Nationals | NSW | Reps | ? | 2021-09-06 |  | 
 | Bob Katter | KAP | QLD | Reps | ? | 2019-07-31 |  | 
 | Ged Kearney | Labor | VIC | Reps | ? | 2020-12-21 |  | 
