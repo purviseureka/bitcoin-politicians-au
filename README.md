@@ -84,9 +84,9 @@ You can click the column headers to sort.
 | Nicolle Flint | Liberal | SA | Reps | NO | [2020-07-30](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Flint_46P.pdf?la=en&hash=A98AE6618818A1E513B28F484886C7750D4C043C) |  | 
 | Mike Freelander | Labor | NSW | Reps | NO | [2021-09-16](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Freelander_46P.pdf?la=en&hash=6BA49B4BE8BEC1472AC95411C02608A0C0AC6A33) | $APT.AX (bought by $SQ) | 
 | Josh Frydenberg | Liberal | VIC | Reps | NO | [2021-05-26](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Frydenberg_46P.pdf?la=en&hash=482D248F20A4FCDEAED08C4AC1677F739A755695) |  | 
-| Katy Gallagher | Labor | ACT | Senate | ? | 2021-09-06 |  | 
-| Andrew Gee | Nationals | NSW | Reps | ? | 2021-03-23 |  | 
-| Steve Georganas | Labor | SA | Reps | ? | 2020-02-07 |  | 
+| Katy Gallagher | Labor | ACT | Senate | NO | [2021-09-06](https://www.aph.gov.au/-/media/Committees/Senate/committee/interests_ctte/Statements_2019_46th_Parl/GallagherK_Astat_190715.pdf?la=en&hash=488A662038A29ADD08E0B3825F6D0A17A005A6F8) |  | 
+| Andrew Gee | Nationals | NSW | Reps | NO | [2021-03-23](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gee_46P.pdf?la=en&hash=25AE4B7984347CF36AE85AC73DA1AD12813B4FB1) |  | 
+| Steve Georganas | Labor | SA | Reps | NO | [2020-02-07](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Georganas_46P.pdf?la=en&hash=08A7F04FB86BC3603FD037295A4619DEB0A3AE1C) |  | 
 | Andrew Giles | Labor | VIC | Reps | ? | 2019-12-13 |  | 
 | David Gillespie | Nationals | NSW | Reps | ? | 2021-08-03 |  | 
 | Ian Goodenough | Liberal | WA | Reps | ? | 2019-09-10 |  | 
