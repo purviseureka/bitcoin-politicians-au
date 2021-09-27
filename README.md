@@ -87,11 +87,11 @@ You can click the column headers to sort.
 | Katy Gallagher | Labor | ACT | Senate | NO | [2021-09-06](https://www.aph.gov.au/-/media/Committees/Senate/committee/interests_ctte/Statements_2019_46th_Parl/GallagherK_Astat_190715.pdf?la=en&hash=488A662038A29ADD08E0B3825F6D0A17A005A6F8) |  | 
 | Andrew Gee | Nationals | NSW | Reps | NO | [2021-03-23](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gee_46P.pdf?la=en&hash=25AE4B7984347CF36AE85AC73DA1AD12813B4FB1) |  | 
 | Steve Georganas | Labor | SA | Reps | NO | [2020-02-07](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Georganas_46P.pdf?la=en&hash=08A7F04FB86BC3603FD037295A4619DEB0A3AE1C) |  | 
-| Andrew Giles | Labor | VIC | Reps | ? | 2019-12-13 |  | 
-| David Gillespie | Nationals | NSW | Reps | ? | 2021-08-03 |  | 
-| Ian Goodenough | Liberal | WA | Reps | ? | 2019-09-10 |  | 
-| Patrick Gorman | Labor | WA | Reps | ? | 2021-08-09 |  | 
-| Luke Gosling | Labor | NT | Reps | ? | 2021-01-06 |  | 
+| Andrew Giles | Labor | VIC | Reps | NO | [2019-12-13](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Giles_46P.pdf?la=en&hash=B8774D540DEF6FAF55CA9DD2E077315D7A3B814E) |  | 
+| David Gillespie | Nationals | NSW | Reps | NO | [2021-08-03](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gillespie_46P.pdf?la=en&hash=E0725BB77DE3D13421BA253634678A84BCB0228B) | Banks ($ANZ, $NAB, $CBA), Gold ($NST) | 
+| Ian Goodenough | Liberal | WA | Reps | NO | [2019-09-10](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Goodenough_46P.pdf?la=en&hash=C3C70C2BCC855082AB70131B98173F3EAF29073F) |  | 
+| Patrick Gorman | Labor | WA | Reps | NO | [2021-09-20](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gorman_46P.pdf?la=en&hash=E9CE2EDB36156D9CFE754126A1544890D5B27ACB) |  | 
+| Luke Gosling | Labor | NT | Reps | NO | [2021-01-06](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gosling_46P.pdf?la=en&hash=0B33D10BD11F7733AD6422FF4DCCDD375441477D) |  | 
 | Nita Green | Labor | QLD | Senate | ? | 2021-07-05 |  | 
 | Stirling Griff | Centre Alliance | SA | Senate | ? | 2020-06-02 |  | 
 | Helen Haines | Independent | VIC | Reps | ? | 2021-02-19 |  | 
