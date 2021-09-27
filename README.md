@@ -79,8 +79,8 @@ You can click the column headers to sort.
 | Mehreen Faruqi | Greens | NSW | Senate | ? | 2021-09-07 |  | 
 | David Fawcett | Liberal | SA | Senate | ? | 2019-09-13 |  | 
 | Concetta Fierravanti-Wells | Liberal | NSW | Senate | ? | 2021-04-09 |  | 
-| Joel Fitzgibbon | Labor | NSW | Reps | ? | 2021-06-08 |  | 
-| Paul Fletcher | Liberal | NSW | Reps | ? | 2021-09-17 |  | 
+| Joel Fitzgibbon | Labor | NSW | Reps | NO | [2021-06-08](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Fitzgibbon_46P.pdf?la=en&hash=9866ACCDBA7ED7CCD1C13EDAE32BE76C3BE1611B) |  | 
+| Paul Fletcher | Liberal | NSW | Reps | NO | [2021-09-17](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Fletcher_46P.pdf?la=en&hash=F5B4B4E8A185F3BD58A3D41C8461A0844DB57284) |  | 
 | Nicolle Flint | Liberal | SA | Reps | ? | 2020-07-30 |  | 
 | Mike Freelander | Labor | NSW | Reps | ? | 2021-09-16 |  | 
 | Josh Frydenberg | Liberal | VIC | Reps | ? | 2021-05-26 |  | 
