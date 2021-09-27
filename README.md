@@ -199,10 +199,10 @@ You can click the column headers to sort.
 | David Smith | Labor | ACT | Reps | ? | 2020-09-18 |  | 
 | Dean Smith | Liberal | WA | Senate | ? | 2021-08-09 |  | 
 | Marielle Smith | Labor | SA | Senate | ? | 2021-07-14 |  | 
-| Warren Snowdon | Labor | NT | Reps | ? | 2020-11-12 |  | 
+| Warren Snowdon | Labor | NT | Reps | NO | [2020-11-12](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Snowdon_46P.pdf?la=en&hash=0F6B9B735950D56C6EAC3DC24633DE0A039E2930) |  | 
 | Anne Stanley | Labor | NSW | Reps | ? | 2021-04-08 |  | 
 | Jordon Steele-John | Greens | WA | Senate | ? | 2019-08-02 |  | 
-| Zali Steggall | Independent | NSW | Reps | ? | 2021-05-28 |  | 
+| Zali Steggall | Independent | NSW | Reps | NO | [2021-05-28](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Steggall_46P.pdf?la=en&hash=D5F97F23C7FC0AE5D718ECC6B205EAFDCC59F936) |  | 
 | Glenn Sterle | Labor | WA | Senate | ? | 2021-08-25 |  | 
 | James Stevens | Liberal | SA | Reps | ? | 2020-11-25 |  | 
 | Amanda Stoker | Liberal | QLD | Senate | ? | 2020-08-21 |  | 
