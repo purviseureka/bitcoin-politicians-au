@@ -1,7 +1,7 @@
 Talk is cheap but based on public financial disclosures, we can know which federal politicians actually have skin in the game. Searching through financial disclosures and keeping the data up to date can be a time consuming process so this project's goal is to crowdsource the work.
 
 ### Contributing
-NOTE: many politicians have yet to be researched; if you have some spare time, I encourage you to look some up and contribute to this project by [editing the README.md file](https://github.com/0pete/bitcoin-politicians-au/edit/master/README.md).
+NOTE: many politicians have yet to be researched; if you have some spare time, I encourage you to look some up and contribute to this project by [editing the README.md file](https://github.com/purviseureka/bitcoin-politicians-au/edit/master/README.md).
 
 You can find the financial disclosures here:
 * [House of Representatives](https://www.aph.gov.au/Senators_and_Members/Members/Register)
