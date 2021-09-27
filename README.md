@@ -112,9 +112,9 @@ You can click the column headers to sort.
 | Ed Husic | Labor | NSW | Reps | NO | [2020-04-01](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Husic_46P.pdf?la=en&hash=EAAA373458E50875E4CED889F15CA3F17D5E774D) |  | 
 | Steve Irons | Liberal | WA | Reps | NO | [2020-10-28](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Irons_46P.pdf?la=en&hash=3EFE00F1593FD1C25670B7F4E7B1F4B9B9CA40BC) | Burey Gold | 
 | Stephen Jones | Labor | NSW | Reps | NO | [2021-06-29](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Jones_46P.pdf?la=en&hash=1D484DC4E3BAC1AF8F1AEC3BEA3BDAFF3761F183) |  | 
-| Barnaby Joyce | Nationals | NSW | Reps | ? | 2021-09-06 |  | 
-| Bob Katter | KAP | QLD | Reps | ? | 2019-07-31 |  | 
-| Ged Kearney | Labor | VIC | Reps | ? | 2020-12-21 |  | 
+| Barnaby Joyce | Nationals | NSW | Reps | NO | [2021-09-06](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Joyce_46P.pdf?la=en&hash=86D474B46EA19DE289A44A9E2DD50630D81D8833) | Banks ($MQG, $NAB), Gold ($RMS), $APT (bought by $SQ) | 
+| Bob Katter | KAP | QLD | Reps | NO | [2019-07-31](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/KN/Katter_46P.pdf?la=en&hash=D5B5B8DA48FBCE347647F2BFDCBE2E7C7496C05D) |  | 
+| Ged Kearney | Labor | VIC | Reps | NO | [2020-12-21](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/KN/Kearney_46P.pdf?la=en&hash=3378AC91DC599FF1CFA26179F5B5AE17DC36130A) | $MQG | 
 | Craig Kelly | UAP | NSW | Reps | ? | 2019-07-30 |  | 
 | Kristina Keneally | Labor | NSW | Senate | ? | 2021-06-30 |  | 
 | Matt Keogh | Labor | WA | Reps | ? | 2021-09-06 |  | 
