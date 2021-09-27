@@ -88,7 +88,7 @@ You can click the column headers to sort.
 | Andrew Gee | Nationals | NSW | Reps | NO | [2021-03-23](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gee_46P.pdf?la=en&hash=25AE4B7984347CF36AE85AC73DA1AD12813B4FB1) |  | 
 | Steve Georganas | Labor | SA | Reps | NO | [2020-02-07](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Georganas_46P.pdf?la=en&hash=08A7F04FB86BC3603FD037295A4619DEB0A3AE1C) |  | 
 | Andrew Giles | Labor | VIC | Reps | NO | [2019-12-13](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Giles_46P.pdf?la=en&hash=B8774D540DEF6FAF55CA9DD2E077315D7A3B814E) |  | 
-| David Gillespie | Nationals | NSW | Reps | NO | [2021-08-03](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gillespie_46P.pdf?la=en&hash=E0725BB77DE3D13421BA253634678A84BCB0228B) | Banks ($ANZ, $NAB, $CBA), Gold ($NST) | 
+| David Gillespie | Nationals | NSW | Reps | NO | [2021-08-03](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gillespie_46P.pdf?la=en&hash=E0725BB77DE3D13421BA253634678A84BCB0228B) | Gold ($NST) | 
 | Ian Goodenough | Liberal | WA | Reps | NO | [2019-09-10](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Goodenough_46P.pdf?la=en&hash=C3C70C2BCC855082AB70131B98173F3EAF29073F) |  | 
 | Patrick Gorman | Labor | WA | Reps | NO | [2021-09-20](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gorman_46P.pdf?la=en&hash=E9CE2EDB36156D9CFE754126A1544890D5B27ACB) |  | 
 | Luke Gosling | Labor | NT | Reps | NO | [2021-01-06](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Gosling_46P.pdf?la=en&hash=0B33D10BD11F7733AD6422FF4DCCDD375441477D) |  | 
@@ -112,9 +112,9 @@ You can click the column headers to sort.
 | Ed Husic | Labor | NSW | Reps | NO | [2020-04-01](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Husic_46P.pdf?la=en&hash=EAAA373458E50875E4CED889F15CA3F17D5E774D) |  | 
 | Steve Irons | Liberal | WA | Reps | NO | [2020-10-28](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Irons_46P.pdf?la=en&hash=3EFE00F1593FD1C25670B7F4E7B1F4B9B9CA40BC) | Burey Gold | 
 | Stephen Jones | Labor | NSW | Reps | NO | [2021-06-29](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Jones_46P.pdf?la=en&hash=1D484DC4E3BAC1AF8F1AEC3BEA3BDAFF3761F183) |  | 
-| Barnaby Joyce | Nationals | NSW | Reps | NO | [2021-09-06](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Joyce_46P.pdf?la=en&hash=86D474B46EA19DE289A44A9E2DD50630D81D8833) | Banks ($MQG, $NAB), Gold ($RMS), $APT (bought by $SQ) | 
+| Barnaby Joyce | Nationals | NSW | Reps | NO | [2021-09-06](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/GJ/Joyce_46P.pdf?la=en&hash=86D474B46EA19DE289A44A9E2DD50630D81D8833) | Gold ($RMS), $APT (bought by $SQ) | 
 | Bob Katter | KAP | QLD | Reps | NO | [2019-07-31](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/KN/Katter_46P.pdf?la=en&hash=D5B5B8DA48FBCE347647F2BFDCBE2E7C7496C05D) |  | 
-| Ged Kearney | Labor | VIC | Reps | NO | [2020-12-21](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/KN/Kearney_46P.pdf?la=en&hash=3378AC91DC599FF1CFA26179F5B5AE17DC36130A) | $MQG | 
+| Ged Kearney | Labor | VIC | Reps | NO | [2020-12-21](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/KN/Kearney_46P.pdf?la=en&hash=3378AC91DC599FF1CFA26179F5B5AE17DC36130A) |  | 
 | Craig Kelly | UAP | NSW | Reps | ? | 2019-07-30 |  | 
 | Kristina Keneally | Labor | NSW | Senate | ? | 2021-06-30 |  | 
 | Matt Keogh | Labor | WA | Reps | ? | 2021-09-06 |  | 
@@ -232,13 +232,13 @@ You can click the column headers to sort.
 | Lucy Wicks | Liberal | NSW | Reps | ? | 2021-04-30 |  | 
 | Andrew Wilkie | Independent | TAS | Reps | ? | 2021-08-11 |  | 
 | Josh Wilson | Labor | WA | Reps | ? | 2021-02-26 |  | 
-| Rick Wilson | Liberal | WA | Reps | ? | 2021-08-05 |  | 
-| Tim Wilson | Liberal | VIC | Reps | ? | 2021-09-17 |  | 
-| Penny Wong | Labor | SA | Senate | ? | 2020-07-29 |  | 
-| Jason Wood | Liberal | VIC | Reps | ? | 2019-11-12 |  | 
-| Ken Wyatt | Liberal | WA | Reps | ? | 2019-07-31 |  | 
-| Terry Young | LNP | QLD | Reps | ? | 2021-08-03 |  | 
-| Tony Zappia | Labor | SA | Reps | ? | 2019-07-31 |  | 
+| Rick Wilson | Liberal | WA | Reps | NO | [2021-08-05](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/WilsonR_46P.pdf?la=en&hash=F4B489046EAA9901373781DAAD6072BE07576B59) |  | 
+| Tim Wilson | Liberal | VIC | Reps | NO | [2021-09-17](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/WilsonT_46P.pdf?la=en&hash=C211C6E3A63D2B0611E47391E2463CB2217A8E08) |  |
+| Penny Wong | Labor | SA | Senate | NO | [2020-07-29](https://www.aph.gov.au/-/media/Committees/Senate/committee/interests_ctte/Statements_2019_46th_Parl/WongP_Astat_190729.pdf?la=en&hash=0C406AD907EBABF78EBB345692578FBFCF29DF06) |  | 
+| Jason Wood | Liberal | VIC | Reps | NO | [2019-11-12](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Wood_46P.pdf?la=en&hash=7465D8A5576CB62D265800A12687AE94136EF2D9) |  | 
+| Ken Wyatt | Liberal | WA | Reps | NO | [2019-07-31](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Wyatt_46P.pdf?la=en&hash=52CC30DF7F805B009D3C9304858E1618BF3CD1EA) |  | 
+| Terry Young | LNP | QLD | Reps | NO | [2021-08-03](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Young_46P.pdf?la=en&hash=AE9D5949C59B7DD8970D6A777880018FA5DF5D75) |  | 
+| Tony Zappia | Labor | SA | Reps | NO | [2019-07-31](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Zappia_46P.pdf?la=en&hash=D7F828EADE1C54B7C9830D345CE4499471C343EA) |  | 
 | Trent Zimmerman | Liberal | NSW | Reps | NO | [2021-05-06](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Zimmerman_46P.pdf?la=en&hash=115035758A8A095A5A3F8832ED3CAAAA309E11BE) |  | 
    
    
