@@ -81,9 +81,9 @@ You can click the column headers to sort.
 | Concetta Fierravanti-Wells | Liberal | NSW | Senate | ? | 2021-04-09 |  | 
 | Joel Fitzgibbon | Labor | NSW | Reps | NO | [2021-06-08](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Fitzgibbon_46P.pdf?la=en&hash=9866ACCDBA7ED7CCD1C13EDAE32BE76C3BE1611B) |  | 
 | Paul Fletcher | Liberal | NSW | Reps | NO | [2021-09-17](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Fletcher_46P.pdf?la=en&hash=F5B4B4E8A185F3BD58A3D41C8461A0844DB57284) |  | 
-| Nicolle Flint | Liberal | SA | Reps | ? | 2020-07-30 |  | 
-| Mike Freelander | Labor | NSW | Reps | ? | 2021-09-16 |  | 
-| Josh Frydenberg | Liberal | VIC | Reps | ? | 2021-05-26 |  | 
+| Nicolle Flint | Liberal | SA | Reps | NO | [2020-07-30](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Flint_46P.pdf?la=en&hash=A98AE6618818A1E513B28F484886C7750D4C043C) |  | 
+| Mike Freelander | Labor | NSW | Reps | NO | [2021-09-16](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Freelander_46P.pdf?la=en&hash=6BA49B4BE8BEC1472AC95411C02608A0C0AC6A33) | $APT.AX (bought by $SQ) | 
+| Josh Frydenberg | Liberal | VIC | Reps | NO | [2021-05-26](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Frydenberg_46P.pdf?la=en&hash=482D248F20A4FCDEAED08C4AC1677F739A755695) |  | 
 | Katy Gallagher | Labor | ACT | Senate | ? | 2021-09-06 |  | 
 | Andrew Gee | Nationals | NSW | Reps | ? | 2021-03-23 |  | 
 | Steve Georganas | Labor | SA | Reps | ? | 2020-02-07 |  | 
