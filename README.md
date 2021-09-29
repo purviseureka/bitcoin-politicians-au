@@ -193,11 +193,11 @@ You can click the column headers to sort.
 | Dave Sharma | Liberal | NSW | Reps | ? | 2021-09-08 |  | 
 | Tony Sheldon | Labor | NSW | Senate | ? | 2021-04-28 |  | 
 | Bill Shorten | Labor | VIC | Reps | ? | 2021-09-08 |  | 
-| Julian Simmonds | LNP | QLD | Reps | ? | 2021-08-03 |  | 
-| Ben Small | Liberal | WA | Senate | ? | 2021-07-29 |  | 
-| Tony Smith | Liberal | VIC | Reps | ? | 2021-08-10 |  | 
-| David Smith | Labor | ACT | Reps | ? | 2020-09-18 |  | 
-| Dean Smith | Liberal | WA | Senate | ? | 2021-08-09 |  | 
+| Julian Simmonds | LNP | QLD | Reps | NO | [2021-09-28](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Simmonds_46P.pdf?la=en&hash=1BF30F5275906239B73F0CCCBB7A36280F8A240A) |  | 
+| Ben Small | Liberal | WA | Senate | NO | [2021-07-29](https://www.aph.gov.au/-/media/Committees/Senate/committee/interests_ctte/Statements_2019_46th_Parl/SmallB_Astat_201209.pdf?la=en&hash=AD53226DBAE1B6A1FBD6F7760C6A5DD7DA00CB21) |  | 
+| Tony Smith | Liberal | VIC | Reps | NO | [2021-08-10](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/SmithT_46P.pdf?la=en&hash=6D58AC966A7A09965F02511777DA15E02991F086) |  | 
+| David Smith | Labor | ACT | Reps | NO | [2020-09-18](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/SmithD_46Pd.pdf?la=en&hash=C5820A548A0F17D1482CB1472C163A90306E82E9) |  | 
+| Dean Smith | Liberal | WA | Senate | ? | [2021-08-09](https://www.aph.gov.au/-/media/Committees/Senate/committee/interests_ctte/Statements_2019_46th_Parl/SmithD_Astat_290729.pdf?la=en&hash=065B92122EDF995E3C4488F61F93C89CF1C84CE8) | $GOR (Gold), $APT.AX (bought by $SQ) | 
 | Marielle Smith | Labor | SA | Senate | ? | 2021-07-14 |  | 
 | Warren Snowdon | Labor | NT | Reps | NO | [2020-11-12](https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Snowdon_46P.pdf?la=en&hash=0F6B9B735950D56C6EAC3DC24633DE0A039E2930) |  | 
 | Anne Stanley | Labor | NSW | Reps | ? | 2021-04-08 |  | 
